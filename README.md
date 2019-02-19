@@ -16,7 +16,7 @@ This project is made for kids short stories, most test run are on stories from:
 text = '<Any short story>'
 question_generator(text)
 ```
-##Result
+## Result on story: [Elephant and Friends](http://www.english-for-students.com/Elephant-and-Friends.html)
 ```
 sentence:  One day an elephant wandered into a forest in search of friends.
 question:  One day Who wandered into a forest in search of friends.
